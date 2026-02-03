@@ -10,7 +10,7 @@ I'm a developer focused on building meaningful projects and constantly learning 
 
 💬 Ask me about ...
 
-📫 How to reach me: [Your Email]
+📫 How to reach me: kyorlin2001@gmail.com
 
 🛠 My Tech Stack
 
