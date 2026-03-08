@@ -16,9 +16,9 @@ I'm a developer focused on building meaningful projects and constantly learning 
 
 Languages: JavaScript, Python, C++, C, Java, C#
 
-Frameworks: React, Node.js, ExtJS, Spring
+Frameworks: React, Node.js, ExtJS, Spring, Transformers, Torch, Numpy, Keras
 
-Tools: Git, Docker, VS Code, Jetbrains, Eclipse, Netbeans, Ollama
+Tools: Git, Docker, VS Code, Jetbrains, Eclipse, Netbeans, Ollama, RAG, LLM, Hugging Face
 
 📈 My GitHub Stats
 
