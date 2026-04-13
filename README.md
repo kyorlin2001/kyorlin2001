@@ -6,7 +6,7 @@ I'm a developer focused on building meaningful projects and constantly learning 
 
 🔭 I’m currently working on ... cleaning up old projects and uploading them to github
 
-🌱 I’m currently learning ... LLM integrations, 
+🌱 I’m currently learning ... Agentic AI, 
 
 💬 Ask me about ...
 
